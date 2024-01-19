@@ -1,0 +1,37 @@
+main{
+    min-height: 80vh; /*height of footer*/
+}
+
+.custom-search-bar { /*size of search bar*/
+    height: 20px; 
+    width: 300px;
+}
+
+.green-background { /*background of homescreen*/
+    background-color: #B2D8D8;
+    min-height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .container { /*profile white container*/
+    width: 80%;
+    background-color: white;
+    padding: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .profile-picture { /*pfp size*/
+    width: 100px; 
+    height: 100px; 
+    border-radius: 50%;
+    margin-bottom: 10px;
+  }
+  h1 {
+    color: #333;
+  }
+  
+  p {
+    color: #555;
+  }
